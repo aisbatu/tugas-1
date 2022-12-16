@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\esyah\obj\Debug\net6.0\esyah.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\esyah\obj\Debug\net6.0\esyah.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\esyah\obj\Debug\net6.0\esyah.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\esyah\obj\Debug\net6.0\esyah.AssemblyInfo.cs
+C:\Users\User\Desktop\esyah\obj\Debug\net6.0\esyah.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\esyah\bin\Debug\net6.0\esyah.exe
+C:\Users\User\Desktop\esyah\bin\Debug\net6.0\esyah.deps.json
+C:\Users\User\Desktop\esyah\bin\Debug\net6.0\esyah.runtimeconfig.json
+C:\Users\User\Desktop\esyah\bin\Debug\net6.0\esyah.dll
+C:\Users\User\Desktop\esyah\bin\Debug\net6.0\esyah.pdb
+C:\Users\User\Desktop\esyah\obj\Debug\net6.0\esyah.dll
+C:\Users\User\Desktop\esyah\obj\Debug\net6.0\refint\esyah.dll
+C:\Users\User\Desktop\esyah\obj\Debug\net6.0\esyah.pdb
+C:\Users\User\Desktop\esyah\obj\Debug\net6.0\esyah.genruntimeconfig.cache
+C:\Users\User\Desktop\esyah\obj\Debug\net6.0\ref\esyah.dll
